@@ -14,13 +14,16 @@
     background-color: #f9d29d;
     background-image: linear-gradient(315deg, #f9d29d 0%, #ffd8cb 74%);
     p{
+    @media screen and (min-width: 900px) {
+    font-size:800px;
+    }
     word-wrap: normal;
     display:flex;
     width:100%;
     margin:0;
     padding:0;
     font-family: 'Bebas Neue', cursive;
-    font-size:800px;
+    font-size:350px;
     white-space:  nowrap ;
     }
   `
