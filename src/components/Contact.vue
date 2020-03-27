@@ -15,6 +15,11 @@
 </script>
 <style>
 img{
-    width: 200px;
+    width: 80px;
+}
+@media screen and (min-width: 900px) {
+    img {
+        width: 200px;
+    }
 }
 </style>
