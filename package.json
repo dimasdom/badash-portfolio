@@ -21,7 +21,7 @@
     "bootstrap": "^4.4.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.1.2",
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "sass": "^1.26.3",
     "vue-template-compiler": "^2.6.11"
   },
